@@ -1,0 +1,20 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .Profile{
+      background-color: lightgray;
+      border: 5px solid darkgray;
+      width: 75%;
+      margin-left: 13%;
+      margin-top: 4%;
+  }
+  img{
+    height: 150px;
+    width: 120px;
+    text-align: center;
+  }
+  
+  
+  
